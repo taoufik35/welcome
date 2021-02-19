@@ -13,3 +13,4 @@ Language:maitriser
 -html
 -css
 -php
+passion: archeologie,detection,informatique
